@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bfX24eCoYhDHuqYuANU7R6Vip9AL0syqNlTtH4zAZNNeb4buBLQzlvXEPVslwKE7c4EOauZJQ4YkKnbbmIcr9A==",
+  "success": true,
+  "projectFilePath": "/home/douglashorvath/Documentos/POOnoite/Revisao/Revisao.csproj",
+  "expectedPackageFiles": [
+    "/home/douglashorvath/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.27/microsoft.netcore.app.host.linux-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

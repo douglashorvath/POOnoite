@@ -1,0 +1,14 @@
+/home/douglashorvath/Documentos/POOnoite/ClasseProduto/obj/Debug/net8.0/ClasseProduto.GeneratedMSBuildEditorConfig.editorconfig
+/home/douglashorvath/Documentos/POOnoite/ClasseProduto/obj/Debug/net8.0/ClasseProduto.AssemblyInfoInputs.cache
+/home/douglashorvath/Documentos/POOnoite/ClasseProduto/obj/Debug/net8.0/ClasseProduto.AssemblyInfo.cs
+/home/douglashorvath/Documentos/POOnoite/ClasseProduto/obj/Debug/net8.0/ClasseProduto.csproj.CoreCompileInputs.cache
+/home/douglashorvath/Documentos/POOnoite/ClasseProduto/bin/Debug/net8.0/ClasseProduto
+/home/douglashorvath/Documentos/POOnoite/ClasseProduto/bin/Debug/net8.0/ClasseProduto.deps.json
+/home/douglashorvath/Documentos/POOnoite/ClasseProduto/bin/Debug/net8.0/ClasseProduto.runtimeconfig.json
+/home/douglashorvath/Documentos/POOnoite/ClasseProduto/bin/Debug/net8.0/ClasseProduto.dll
+/home/douglashorvath/Documentos/POOnoite/ClasseProduto/bin/Debug/net8.0/ClasseProduto.pdb
+/home/douglashorvath/Documentos/POOnoite/ClasseProduto/obj/Debug/net8.0/ClasseProduto.dll
+/home/douglashorvath/Documentos/POOnoite/ClasseProduto/obj/Debug/net8.0/refint/ClasseProduto.dll
+/home/douglashorvath/Documentos/POOnoite/ClasseProduto/obj/Debug/net8.0/ClasseProduto.pdb
+/home/douglashorvath/Documentos/POOnoite/ClasseProduto/obj/Debug/net8.0/ClasseProduto.genruntimeconfig.cache
+/home/douglashorvath/Documentos/POOnoite/ClasseProduto/obj/Debug/net8.0/ref/ClasseProduto.dll

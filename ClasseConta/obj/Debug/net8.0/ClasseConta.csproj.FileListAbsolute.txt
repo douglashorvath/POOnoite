@@ -1,0 +1,14 @@
+/home/douglashorvath/Documentos/POOnoite/ClasseConta/obj/Debug/net8.0/ClasseConta.GeneratedMSBuildEditorConfig.editorconfig
+/home/douglashorvath/Documentos/POOnoite/ClasseConta/obj/Debug/net8.0/ClasseConta.AssemblyInfoInputs.cache
+/home/douglashorvath/Documentos/POOnoite/ClasseConta/obj/Debug/net8.0/ClasseConta.AssemblyInfo.cs
+/home/douglashorvath/Documentos/POOnoite/ClasseConta/obj/Debug/net8.0/ClasseConta.csproj.CoreCompileInputs.cache
+/home/douglashorvath/Documentos/POOnoite/ClasseConta/bin/Debug/net8.0/ClasseConta
+/home/douglashorvath/Documentos/POOnoite/ClasseConta/bin/Debug/net8.0/ClasseConta.deps.json
+/home/douglashorvath/Documentos/POOnoite/ClasseConta/bin/Debug/net8.0/ClasseConta.runtimeconfig.json
+/home/douglashorvath/Documentos/POOnoite/ClasseConta/bin/Debug/net8.0/ClasseConta.dll
+/home/douglashorvath/Documentos/POOnoite/ClasseConta/bin/Debug/net8.0/ClasseConta.pdb
+/home/douglashorvath/Documentos/POOnoite/ClasseConta/obj/Debug/net8.0/ClasseConta.dll
+/home/douglashorvath/Documentos/POOnoite/ClasseConta/obj/Debug/net8.0/refint/ClasseConta.dll
+/home/douglashorvath/Documentos/POOnoite/ClasseConta/obj/Debug/net8.0/ClasseConta.pdb
+/home/douglashorvath/Documentos/POOnoite/ClasseConta/obj/Debug/net8.0/ClasseConta.genruntimeconfig.cache
+/home/douglashorvath/Documentos/POOnoite/ClasseConta/obj/Debug/net8.0/ref/ClasseConta.dll
