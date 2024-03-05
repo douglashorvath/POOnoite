@@ -3,13 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ClasseProduto
+namespace ArrayProduto
 {
     public class Produto
     {
         public int codigo;
         public string nome;
         public double preco;
+        public int quantidade;
 
         //metodos
         //crie um método para apresentar os atributos da classe
@@ -18,7 +19,7 @@ namespace ClasseProduto
         //mostrar os atributos da classe
         public void MostrarAtributos()
         {
-            System.Console.WriteLine($"Código: {codigo}\tNome: {nome}\tPreço: {preco}");
+            System.Console.WriteLine($"Código: {codigo}\tNome: {nome}\tQuantidade: {quantidade}\tPreço: {preco:c}");
             //System.Console.WriteLine("Código :"+codigo+"\tNome: "+nome+"\t Preço: "+preco);
         }
 
@@ -26,6 +27,11 @@ namespace ClasseProduto
         public void AumentarValor(double porcentagem)
         {
             preco = preco + (preco/100*porcentagem);
+        }
+
+        public double valorTotalEmEstoque()
+        {
+            return quantidade*preco;
         }
     }
 }

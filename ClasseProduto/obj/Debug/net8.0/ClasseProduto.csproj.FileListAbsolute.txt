@@ -12,3 +12,4 @@
 /home/douglashorvath/Documentos/POOnoite/ClasseProduto/obj/Debug/net8.0/ClasseProduto.pdb
 /home/douglashorvath/Documentos/POOnoite/ClasseProduto/obj/Debug/net8.0/ClasseProduto.genruntimeconfig.cache
 /home/douglashorvath/Documentos/POOnoite/ClasseProduto/obj/Debug/net8.0/ref/ClasseProduto.dll
+/home/douglashorvath/Documentos/POOnoite/ClasseProduto/obj/Debug/net8.0/ClasseProduto.sourcelink.json

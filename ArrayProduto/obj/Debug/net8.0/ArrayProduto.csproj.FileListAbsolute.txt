@@ -1,0 +1,15 @@
+/home/douglashorvath/Documentos/POOnoite/ArrayProduto/obj/Debug/net8.0/ArrayProduto.GeneratedMSBuildEditorConfig.editorconfig
+/home/douglashorvath/Documentos/POOnoite/ArrayProduto/obj/Debug/net8.0/ArrayProduto.AssemblyInfoInputs.cache
+/home/douglashorvath/Documentos/POOnoite/ArrayProduto/obj/Debug/net8.0/ArrayProduto.AssemblyInfo.cs
+/home/douglashorvath/Documentos/POOnoite/ArrayProduto/obj/Debug/net8.0/ArrayProduto.csproj.CoreCompileInputs.cache
+/home/douglashorvath/Documentos/POOnoite/ArrayProduto/obj/Debug/net8.0/ArrayProduto.sourcelink.json
+/home/douglashorvath/Documentos/POOnoite/ArrayProduto/bin/Debug/net8.0/ArrayProduto
+/home/douglashorvath/Documentos/POOnoite/ArrayProduto/bin/Debug/net8.0/ArrayProduto.deps.json
+/home/douglashorvath/Documentos/POOnoite/ArrayProduto/bin/Debug/net8.0/ArrayProduto.runtimeconfig.json
+/home/douglashorvath/Documentos/POOnoite/ArrayProduto/bin/Debug/net8.0/ArrayProduto.dll
+/home/douglashorvath/Documentos/POOnoite/ArrayProduto/bin/Debug/net8.0/ArrayProduto.pdb
+/home/douglashorvath/Documentos/POOnoite/ArrayProduto/obj/Debug/net8.0/ArrayProduto.dll
+/home/douglashorvath/Documentos/POOnoite/ArrayProduto/obj/Debug/net8.0/refint/ArrayProduto.dll
+/home/douglashorvath/Documentos/POOnoite/ArrayProduto/obj/Debug/net8.0/ArrayProduto.pdb
+/home/douglashorvath/Documentos/POOnoite/ArrayProduto/obj/Debug/net8.0/ArrayProduto.genruntimeconfig.cache
+/home/douglashorvath/Documentos/POOnoite/ArrayProduto/obj/Debug/net8.0/ref/ArrayProduto.dll

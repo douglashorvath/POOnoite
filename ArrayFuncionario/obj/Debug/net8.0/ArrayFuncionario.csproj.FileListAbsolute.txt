@@ -1,0 +1,15 @@
+/home/douglashorvath/Documentos/POOnoite/ArrayFuncionario/obj/Debug/net8.0/ArrayFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+/home/douglashorvath/Documentos/POOnoite/ArrayFuncionario/obj/Debug/net8.0/ArrayFuncionario.AssemblyInfoInputs.cache
+/home/douglashorvath/Documentos/POOnoite/ArrayFuncionario/obj/Debug/net8.0/ArrayFuncionario.AssemblyInfo.cs
+/home/douglashorvath/Documentos/POOnoite/ArrayFuncionario/obj/Debug/net8.0/ArrayFuncionario.csproj.CoreCompileInputs.cache
+/home/douglashorvath/Documentos/POOnoite/ArrayFuncionario/obj/Debug/net8.0/ArrayFuncionario.sourcelink.json
+/home/douglashorvath/Documentos/POOnoite/ArrayFuncionario/bin/Debug/net8.0/ArrayFuncionario
+/home/douglashorvath/Documentos/POOnoite/ArrayFuncionario/bin/Debug/net8.0/ArrayFuncionario.deps.json
+/home/douglashorvath/Documentos/POOnoite/ArrayFuncionario/bin/Debug/net8.0/ArrayFuncionario.runtimeconfig.json
+/home/douglashorvath/Documentos/POOnoite/ArrayFuncionario/bin/Debug/net8.0/ArrayFuncionario.dll
+/home/douglashorvath/Documentos/POOnoite/ArrayFuncionario/bin/Debug/net8.0/ArrayFuncionario.pdb
+/home/douglashorvath/Documentos/POOnoite/ArrayFuncionario/obj/Debug/net8.0/ArrayFuncionario.dll
+/home/douglashorvath/Documentos/POOnoite/ArrayFuncionario/obj/Debug/net8.0/refint/ArrayFuncionario.dll
+/home/douglashorvath/Documentos/POOnoite/ArrayFuncionario/obj/Debug/net8.0/ArrayFuncionario.pdb
+/home/douglashorvath/Documentos/POOnoite/ArrayFuncionario/obj/Debug/net8.0/ArrayFuncionario.genruntimeconfig.cache
+/home/douglashorvath/Documentos/POOnoite/ArrayFuncionario/obj/Debug/net8.0/ref/ArrayFuncionario.dll
