@@ -1,0 +1,15 @@
+/home/DouglasHorvath/Documents/Fatec/POOnoite/ConstrutorConta/bin/Debug/net8.0/ConstrutorConta
+/home/DouglasHorvath/Documents/Fatec/POOnoite/ConstrutorConta/bin/Debug/net8.0/ConstrutorConta.deps.json
+/home/DouglasHorvath/Documents/Fatec/POOnoite/ConstrutorConta/bin/Debug/net8.0/ConstrutorConta.runtimeconfig.json
+/home/DouglasHorvath/Documents/Fatec/POOnoite/ConstrutorConta/bin/Debug/net8.0/ConstrutorConta.dll
+/home/DouglasHorvath/Documents/Fatec/POOnoite/ConstrutorConta/bin/Debug/net8.0/ConstrutorConta.pdb
+/home/DouglasHorvath/Documents/Fatec/POOnoite/ConstrutorConta/obj/Debug/net8.0/ConstrutorConta.GeneratedMSBuildEditorConfig.editorconfig
+/home/DouglasHorvath/Documents/Fatec/POOnoite/ConstrutorConta/obj/Debug/net8.0/ConstrutorConta.AssemblyInfoInputs.cache
+/home/DouglasHorvath/Documents/Fatec/POOnoite/ConstrutorConta/obj/Debug/net8.0/ConstrutorConta.AssemblyInfo.cs
+/home/DouglasHorvath/Documents/Fatec/POOnoite/ConstrutorConta/obj/Debug/net8.0/ConstrutorConta.csproj.CoreCompileInputs.cache
+/home/DouglasHorvath/Documents/Fatec/POOnoite/ConstrutorConta/obj/Debug/net8.0/ConstrutorConta.sourcelink.json
+/home/DouglasHorvath/Documents/Fatec/POOnoite/ConstrutorConta/obj/Debug/net8.0/ConstrutorConta.dll
+/home/DouglasHorvath/Documents/Fatec/POOnoite/ConstrutorConta/obj/Debug/net8.0/refint/ConstrutorConta.dll
+/home/DouglasHorvath/Documents/Fatec/POOnoite/ConstrutorConta/obj/Debug/net8.0/ConstrutorConta.pdb
+/home/DouglasHorvath/Documents/Fatec/POOnoite/ConstrutorConta/obj/Debug/net8.0/ConstrutorConta.genruntimeconfig.cache
+/home/DouglasHorvath/Documents/Fatec/POOnoite/ConstrutorConta/obj/Debug/net8.0/ref/ConstrutorConta.dll

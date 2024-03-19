@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "bfX24eCoYhDHuqYuANU7R6Vip9AL0syqNlTtH4zAZNNeb4buBLQzlvXEPVslwKE7c4EOauZJQ4YkKnbbmIcr9A==",
+  "dgSpecHash": "F5WU4AoFOASjIEjdYaS8lJfCb9td1RyW268G3gdhTvJnlsUPa3ae8wCs1zRGaMBRWN72pG1EnvcGpiBE8R9KeQ==",
   "success": true,
-  "projectFilePath": "/home/douglashorvath/Documentos/POOnoite/Revisao/Revisao.csproj",
+  "projectFilePath": "/home/DouglasHorvath/Documents/Fatec/POOnoite/Revisao/Revisao.csproj",
   "expectedPackageFiles": [
-    "/home/douglashorvath/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.27/microsoft.netcore.app.host.linux-x64.6.0.27.nupkg.sha512"
+    "/home/DouglasHorvath/.nuget/packages/microsoft.netcore.app.ref/6.0.28/microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "/home/DouglasHorvath/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.28/microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "/home/DouglasHorvath/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.28/microsoft.netcore.app.host.linux-x64.6.0.28.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,0 +1,15 @@
+/home/DouglasHorvath/Documents/Fatec/POOnoite/ConstrutorProduto/obj/Debug/net8.0/ConstrutorProduto.GeneratedMSBuildEditorConfig.editorconfig
+/home/DouglasHorvath/Documents/Fatec/POOnoite/ConstrutorProduto/obj/Debug/net8.0/ConstrutorProduto.AssemblyInfoInputs.cache
+/home/DouglasHorvath/Documents/Fatec/POOnoite/ConstrutorProduto/obj/Debug/net8.0/ConstrutorProduto.AssemblyInfo.cs
+/home/DouglasHorvath/Documents/Fatec/POOnoite/ConstrutorProduto/obj/Debug/net8.0/ConstrutorProduto.csproj.CoreCompileInputs.cache
+/home/DouglasHorvath/Documents/Fatec/POOnoite/ConstrutorProduto/obj/Debug/net8.0/ConstrutorProduto.sourcelink.json
+/home/DouglasHorvath/Documents/Fatec/POOnoite/ConstrutorProduto/bin/Debug/net8.0/ConstrutorProduto
+/home/DouglasHorvath/Documents/Fatec/POOnoite/ConstrutorProduto/bin/Debug/net8.0/ConstrutorProduto.deps.json
+/home/DouglasHorvath/Documents/Fatec/POOnoite/ConstrutorProduto/bin/Debug/net8.0/ConstrutorProduto.runtimeconfig.json
+/home/DouglasHorvath/Documents/Fatec/POOnoite/ConstrutorProduto/bin/Debug/net8.0/ConstrutorProduto.dll
+/home/DouglasHorvath/Documents/Fatec/POOnoite/ConstrutorProduto/bin/Debug/net8.0/ConstrutorProduto.pdb
+/home/DouglasHorvath/Documents/Fatec/POOnoite/ConstrutorProduto/obj/Debug/net8.0/ConstrutorProduto.dll
+/home/DouglasHorvath/Documents/Fatec/POOnoite/ConstrutorProduto/obj/Debug/net8.0/refint/ConstrutorProduto.dll
+/home/DouglasHorvath/Documents/Fatec/POOnoite/ConstrutorProduto/obj/Debug/net8.0/ConstrutorProduto.pdb
+/home/DouglasHorvath/Documents/Fatec/POOnoite/ConstrutorProduto/obj/Debug/net8.0/ConstrutorProduto.genruntimeconfig.cache
+/home/DouglasHorvath/Documents/Fatec/POOnoite/ConstrutorProduto/obj/Debug/net8.0/ref/ConstrutorProduto.dll
