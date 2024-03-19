@@ -1,0 +1,15 @@
+/home/douglashorvath/Documentos/POOnoite/EncapsulamentoFuncionario/obj/Debug/net8.0/EncapsulamentoFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+/home/douglashorvath/Documentos/POOnoite/EncapsulamentoFuncionario/obj/Debug/net8.0/EncapsulamentoFuncionario.AssemblyInfoInputs.cache
+/home/douglashorvath/Documentos/POOnoite/EncapsulamentoFuncionario/obj/Debug/net8.0/EncapsulamentoFuncionario.AssemblyInfo.cs
+/home/douglashorvath/Documentos/POOnoite/EncapsulamentoFuncionario/obj/Debug/net8.0/EncapsulamentoFuncionario.csproj.CoreCompileInputs.cache
+/home/douglashorvath/Documentos/POOnoite/EncapsulamentoFuncionario/obj/Debug/net8.0/EncapsulamentoFuncionario.sourcelink.json
+/home/douglashorvath/Documentos/POOnoite/EncapsulamentoFuncionario/bin/Debug/net8.0/EncapsulamentoFuncionario
+/home/douglashorvath/Documentos/POOnoite/EncapsulamentoFuncionario/bin/Debug/net8.0/EncapsulamentoFuncionario.deps.json
+/home/douglashorvath/Documentos/POOnoite/EncapsulamentoFuncionario/bin/Debug/net8.0/EncapsulamentoFuncionario.runtimeconfig.json
+/home/douglashorvath/Documentos/POOnoite/EncapsulamentoFuncionario/bin/Debug/net8.0/EncapsulamentoFuncionario.dll
+/home/douglashorvath/Documentos/POOnoite/EncapsulamentoFuncionario/bin/Debug/net8.0/EncapsulamentoFuncionario.pdb
+/home/douglashorvath/Documentos/POOnoite/EncapsulamentoFuncionario/obj/Debug/net8.0/EncapsulamentoFuncionario.dll
+/home/douglashorvath/Documentos/POOnoite/EncapsulamentoFuncionario/obj/Debug/net8.0/refint/EncapsulamentoFuncionario.dll
+/home/douglashorvath/Documentos/POOnoite/EncapsulamentoFuncionario/obj/Debug/net8.0/EncapsulamentoFuncionario.pdb
+/home/douglashorvath/Documentos/POOnoite/EncapsulamentoFuncionario/obj/Debug/net8.0/EncapsulamentoFuncionario.genruntimeconfig.cache
+/home/douglashorvath/Documentos/POOnoite/EncapsulamentoFuncionario/obj/Debug/net8.0/ref/EncapsulamentoFuncionario.dll

@@ -19,7 +19,7 @@ namespace ArrayProduto
         //mostrar os atributos da classe
         public void MostrarAtributos()
         {
-            System.Console.WriteLine($"Código: {codigo}\tNome: {nome}\tQuantidade: {quantidade}\tPreço: {preco:c}");
+            System.Console.WriteLine($"Código: {codigo}\tNome: {nome}\tQuantidade: {quantidade}\tPreço: {preco:c}\tValor em Estoque:{ValorTotalEmEstoque():c}");
             //System.Console.WriteLine("Código :"+codigo+"\tNome: "+nome+"\t Preço: "+preco);
         }
 
@@ -29,9 +29,14 @@ namespace ArrayProduto
             preco = preco + (preco/100*porcentagem);
         }
 
-        public double valorTotalEmEstoque()
+        public double ValorTotalEmEstoque()
         {
             return quantidade*preco;
+        }
+
+        public void RemoverEstoque(int quantidade)
+        {
+            this.quantidade -= quantidade;
         }
     }
 }
