@@ -1,0 +1,15 @@
+/home/douglashorvath/Documentos/POOnoite/EncapsulamentoConta/obj/Debug/net8.0/EncapsulamentoConta.GeneratedMSBuildEditorConfig.editorconfig
+/home/douglashorvath/Documentos/POOnoite/EncapsulamentoConta/obj/Debug/net8.0/EncapsulamentoConta.AssemblyInfoInputs.cache
+/home/douglashorvath/Documentos/POOnoite/EncapsulamentoConta/obj/Debug/net8.0/EncapsulamentoConta.AssemblyInfo.cs
+/home/douglashorvath/Documentos/POOnoite/EncapsulamentoConta/obj/Debug/net8.0/EncapsulamentoConta.csproj.CoreCompileInputs.cache
+/home/douglashorvath/Documentos/POOnoite/EncapsulamentoConta/obj/Debug/net8.0/EncapsulamentoConta.sourcelink.json
+/home/douglashorvath/Documentos/POOnoite/EncapsulamentoConta/bin/Debug/net8.0/EncapsulamentoConta
+/home/douglashorvath/Documentos/POOnoite/EncapsulamentoConta/bin/Debug/net8.0/EncapsulamentoConta.deps.json
+/home/douglashorvath/Documentos/POOnoite/EncapsulamentoConta/bin/Debug/net8.0/EncapsulamentoConta.runtimeconfig.json
+/home/douglashorvath/Documentos/POOnoite/EncapsulamentoConta/bin/Debug/net8.0/EncapsulamentoConta.dll
+/home/douglashorvath/Documentos/POOnoite/EncapsulamentoConta/bin/Debug/net8.0/EncapsulamentoConta.pdb
+/home/douglashorvath/Documentos/POOnoite/EncapsulamentoConta/obj/Debug/net8.0/EncapsulamentoConta.dll
+/home/douglashorvath/Documentos/POOnoite/EncapsulamentoConta/obj/Debug/net8.0/refint/EncapsulamentoConta.dll
+/home/douglashorvath/Documentos/POOnoite/EncapsulamentoConta/obj/Debug/net8.0/EncapsulamentoConta.pdb
+/home/douglashorvath/Documentos/POOnoite/EncapsulamentoConta/obj/Debug/net8.0/EncapsulamentoConta.genruntimeconfig.cache
+/home/douglashorvath/Documentos/POOnoite/EncapsulamentoConta/obj/Debug/net8.0/ref/EncapsulamentoConta.dll
