@@ -1,0 +1,15 @@
+/home/DouglasHorvath/Documents/POOnoite/AgregacaoConta/obj/Debug/net8.0/AgregacaoConta.GeneratedMSBuildEditorConfig.editorconfig
+/home/DouglasHorvath/Documents/POOnoite/AgregacaoConta/obj/Debug/net8.0/AgregacaoConta.AssemblyInfoInputs.cache
+/home/DouglasHorvath/Documents/POOnoite/AgregacaoConta/obj/Debug/net8.0/AgregacaoConta.AssemblyInfo.cs
+/home/DouglasHorvath/Documents/POOnoite/AgregacaoConta/obj/Debug/net8.0/AgregacaoConta.csproj.CoreCompileInputs.cache
+/home/DouglasHorvath/Documents/POOnoite/AgregacaoConta/obj/Debug/net8.0/AgregacaoConta.sourcelink.json
+/home/DouglasHorvath/Documents/POOnoite/AgregacaoConta/bin/Debug/net8.0/AgregacaoConta
+/home/DouglasHorvath/Documents/POOnoite/AgregacaoConta/bin/Debug/net8.0/AgregacaoConta.deps.json
+/home/DouglasHorvath/Documents/POOnoite/AgregacaoConta/bin/Debug/net8.0/AgregacaoConta.runtimeconfig.json
+/home/DouglasHorvath/Documents/POOnoite/AgregacaoConta/bin/Debug/net8.0/AgregacaoConta.dll
+/home/DouglasHorvath/Documents/POOnoite/AgregacaoConta/bin/Debug/net8.0/AgregacaoConta.pdb
+/home/DouglasHorvath/Documents/POOnoite/AgregacaoConta/obj/Debug/net8.0/AgregacaoConta.dll
+/home/DouglasHorvath/Documents/POOnoite/AgregacaoConta/obj/Debug/net8.0/refint/AgregacaoConta.dll
+/home/DouglasHorvath/Documents/POOnoite/AgregacaoConta/obj/Debug/net8.0/AgregacaoConta.pdb
+/home/DouglasHorvath/Documents/POOnoite/AgregacaoConta/obj/Debug/net8.0/AgregacaoConta.genruntimeconfig.cache
+/home/DouglasHorvath/Documents/POOnoite/AgregacaoConta/obj/Debug/net8.0/ref/AgregacaoConta.dll
