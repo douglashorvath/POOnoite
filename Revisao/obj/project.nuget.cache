@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "WiMDrAddn6HaHjHI8tXtMpFAfPpuF1OvA3rKJLKiigIkAIJMiemi4rdRezk/3OChDu8fxjW8xgZkliH1qwGc/Q==",
+  "dgSpecHash": "ooRkTe68qfi4BcGDNyNv4eCIlR3Yz+TMfCIgY9VBm9Pt/BBv0nFs6iOC5O2R8HnYIImknEerNj6fZI3thzyVCg==",
   "success": true,
-  "projectFilePath": "/home/DouglasHorvath/Documents/POOnoite/Revisao/Revisao.csproj",
+  "projectFilePath": "J:\\ADS\\SEMESTRE 4\\Prrogramação Orientada a Objetos\\POOnoite\\Revisao\\Revisao.csproj",
   "expectedPackageFiles": [
-    "/home/DouglasHorvath/.nuget/packages/microsoft.netcore.app.ref/6.0.28/microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
-    "/home/DouglasHorvath/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.28/microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
-    "/home/DouglasHorvath/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.28/microsoft.netcore.app.host.linux-x64.6.0.28.nupkg.sha512"
+    "C:\\Users\\dough\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\dough\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\dough\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\dough\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
   ],
   "logs": []
 }
