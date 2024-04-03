@@ -1,0 +1,15 @@
+/home/DouglasHorvath/Documents/POOnoite-1/AgregacaoVenda/obj/Debug/net8.0/AgregacaoVenda.GeneratedMSBuildEditorConfig.editorconfig
+/home/DouglasHorvath/Documents/POOnoite-1/AgregacaoVenda/obj/Debug/net8.0/AgregacaoVenda.AssemblyInfoInputs.cache
+/home/DouglasHorvath/Documents/POOnoite-1/AgregacaoVenda/obj/Debug/net8.0/AgregacaoVenda.AssemblyInfo.cs
+/home/DouglasHorvath/Documents/POOnoite-1/AgregacaoVenda/obj/Debug/net8.0/AgregacaoVenda.csproj.CoreCompileInputs.cache
+/home/DouglasHorvath/Documents/POOnoite-1/AgregacaoVenda/obj/Debug/net8.0/AgregacaoVenda.sourcelink.json
+/home/DouglasHorvath/Documents/POOnoite-1/AgregacaoVenda/bin/Debug/net8.0/AgregacaoVenda
+/home/DouglasHorvath/Documents/POOnoite-1/AgregacaoVenda/bin/Debug/net8.0/AgregacaoVenda.deps.json
+/home/DouglasHorvath/Documents/POOnoite-1/AgregacaoVenda/bin/Debug/net8.0/AgregacaoVenda.runtimeconfig.json
+/home/DouglasHorvath/Documents/POOnoite-1/AgregacaoVenda/bin/Debug/net8.0/AgregacaoVenda.dll
+/home/DouglasHorvath/Documents/POOnoite-1/AgregacaoVenda/bin/Debug/net8.0/AgregacaoVenda.pdb
+/home/DouglasHorvath/Documents/POOnoite-1/AgregacaoVenda/obj/Debug/net8.0/AgregacaoVenda.dll
+/home/DouglasHorvath/Documents/POOnoite-1/AgregacaoVenda/obj/Debug/net8.0/refint/AgregacaoVenda.dll
+/home/DouglasHorvath/Documents/POOnoite-1/AgregacaoVenda/obj/Debug/net8.0/AgregacaoVenda.pdb
+/home/DouglasHorvath/Documents/POOnoite-1/AgregacaoVenda/obj/Debug/net8.0/AgregacaoVenda.genruntimeconfig.cache
+/home/DouglasHorvath/Documents/POOnoite-1/AgregacaoVenda/obj/Debug/net8.0/ref/AgregacaoVenda.dll

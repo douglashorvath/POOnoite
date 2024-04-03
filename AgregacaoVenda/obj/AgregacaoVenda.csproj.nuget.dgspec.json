@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/DouglasHorvath/Documents/POOnoite-1/TrabalhoAlunoConstrutor/TrabalhoAlunoConstrutor.csproj": {}
+    "/home/DouglasHorvath/Documents/POOnoite-1/AgregacaoVenda/AgregacaoVenda.csproj": {}
   },
   "projects": {
-    "/home/DouglasHorvath/Documents/POOnoite-1/TrabalhoAlunoConstrutor/TrabalhoAlunoConstrutor.csproj": {
+    "/home/DouglasHorvath/Documents/POOnoite-1/AgregacaoVenda/AgregacaoVenda.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/DouglasHorvath/Documents/POOnoite-1/TrabalhoAlunoConstrutor/TrabalhoAlunoConstrutor.csproj",
-        "projectName": "TrabalhoAlunoConstrutor",
-        "projectPath": "/home/DouglasHorvath/Documents/POOnoite-1/TrabalhoAlunoConstrutor/TrabalhoAlunoConstrutor.csproj",
+        "projectUniqueName": "/home/DouglasHorvath/Documents/POOnoite-1/AgregacaoVenda/AgregacaoVenda.csproj",
+        "projectName": "AgregacaoVenda",
+        "projectPath": "/home/DouglasHorvath/Documents/POOnoite-1/AgregacaoVenda/AgregacaoVenda.csproj",
         "packagesPath": "/home/DouglasHorvath/.nuget/packages/",
-        "outputPath": "/home/DouglasHorvath/Documents/POOnoite-1/TrabalhoAlunoConstrutor/obj/",
+        "outputPath": "/home/DouglasHorvath/Documents/POOnoite-1/AgregacaoVenda/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/DouglasHorvath/.nuget/NuGet/NuGet.Config"
