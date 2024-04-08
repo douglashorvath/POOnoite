@@ -14,10 +14,25 @@ namespace TrabalhoAlunoConstrutor
             private set { matricula = value; }
         }
         
-        public string Nome { get; set; }
+        
+        private string nome;
+        public string Nome
+        {
+            get { return nome; }
+            set { 
+                if(value.Trim() != "")
+                {
+                    nome = value;
+                }
+                else{
+                    System.Console.WriteLine("Nome inválido!");
+                }
+             }
+        }
+        
         public double P1 { get; set; }
         public double P2 { get; set; }
-        public double Media;
+        public double Media { get; private set; }
 
         static Aluno()
         {
@@ -29,10 +44,9 @@ namespace TrabalhoAlunoConstrutor
             Matricula++;
         }
 
-        public double CalcularMedia()
+        public void CalcularMedia()
         {
             Media = (P1+P2)/2;
-            return Media;
         }
 
         public void MostrarAtributos()
@@ -41,7 +55,7 @@ namespace TrabalhoAlunoConstrutor
             Console.WriteLine($"Nome: {Nome}");
             Console.WriteLine($"P1: {P1}");
             Console.WriteLine($"P2: {P2}");
-            Console.WriteLine($"Média: {CalcularMedia()}");
+            Console.WriteLine($"Média: {Media}");
         }
     }
 }

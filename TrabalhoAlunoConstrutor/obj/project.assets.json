@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/DouglasHorvath/Documents/POOnoite-1/TrabalhoAlunoConstrutor/TrabalhoAlunoConstrutor.csproj",
+      "projectUniqueName": "/home/DouglasHorvath/Documents/FATEC/POOnoite/TrabalhoAlunoConstrutor/TrabalhoAlunoConstrutor.csproj",
       "projectName": "TrabalhoAlunoConstrutor",
-      "projectPath": "/home/DouglasHorvath/Documents/POOnoite-1/TrabalhoAlunoConstrutor/TrabalhoAlunoConstrutor.csproj",
+      "projectPath": "/home/DouglasHorvath/Documents/FATEC/POOnoite/TrabalhoAlunoConstrutor/TrabalhoAlunoConstrutor.csproj",
       "packagesPath": "/home/DouglasHorvath/.nuget/packages/",
-      "outputPath": "/home/DouglasHorvath/Documents/POOnoite-1/TrabalhoAlunoConstrutor/obj/",
+      "outputPath": "/home/DouglasHorvath/Documents/FATEC/POOnoite/TrabalhoAlunoConstrutor/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/DouglasHorvath/.nuget/NuGet/NuGet.Config"
