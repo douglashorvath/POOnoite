@@ -1,4 +1,5 @@
 ﻿using ComposicaoBanco;
+//Author: Douglas Horvath
 
 /*Compactar o projeto em .ZIP e enviar pelo Teams
 Seguir o diagrama de classes do slide 19 de Agregação e Composição
