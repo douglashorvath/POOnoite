@@ -1,0 +1,15 @@
+J:\ADS\SEMESTRE 4\Prrogramação Orientada a Objetos\POOnoite\ComposicaoBanco\obj\Debug\net8.0\ComposicaoBanco.GeneratedMSBuildEditorConfig.editorconfig
+J:\ADS\SEMESTRE 4\Prrogramação Orientada a Objetos\POOnoite\ComposicaoBanco\obj\Debug\net8.0\ComposicaoBanco.AssemblyInfoInputs.cache
+J:\ADS\SEMESTRE 4\Prrogramação Orientada a Objetos\POOnoite\ComposicaoBanco\obj\Debug\net8.0\ComposicaoBanco.AssemblyInfo.cs
+J:\ADS\SEMESTRE 4\Prrogramação Orientada a Objetos\POOnoite\ComposicaoBanco\obj\Debug\net8.0\ComposicaoBanco.csproj.CoreCompileInputs.cache
+J:\ADS\SEMESTRE 4\Prrogramação Orientada a Objetos\POOnoite\ComposicaoBanco\obj\Debug\net8.0\ComposicaoBanco.sourcelink.json
+J:\ADS\SEMESTRE 4\Prrogramação Orientada a Objetos\POOnoite\ComposicaoBanco\bin\Debug\net8.0\ComposicaoBanco.exe
+J:\ADS\SEMESTRE 4\Prrogramação Orientada a Objetos\POOnoite\ComposicaoBanco\bin\Debug\net8.0\ComposicaoBanco.deps.json
+J:\ADS\SEMESTRE 4\Prrogramação Orientada a Objetos\POOnoite\ComposicaoBanco\bin\Debug\net8.0\ComposicaoBanco.runtimeconfig.json
+J:\ADS\SEMESTRE 4\Prrogramação Orientada a Objetos\POOnoite\ComposicaoBanco\bin\Debug\net8.0\ComposicaoBanco.dll
+J:\ADS\SEMESTRE 4\Prrogramação Orientada a Objetos\POOnoite\ComposicaoBanco\bin\Debug\net8.0\ComposicaoBanco.pdb
+J:\ADS\SEMESTRE 4\Prrogramação Orientada a Objetos\POOnoite\ComposicaoBanco\obj\Debug\net8.0\ComposicaoBanco.dll
+J:\ADS\SEMESTRE 4\Prrogramação Orientada a Objetos\POOnoite\ComposicaoBanco\obj\Debug\net8.0\refint\ComposicaoBanco.dll
+J:\ADS\SEMESTRE 4\Prrogramação Orientada a Objetos\POOnoite\ComposicaoBanco\obj\Debug\net8.0\ComposicaoBanco.pdb
+J:\ADS\SEMESTRE 4\Prrogramação Orientada a Objetos\POOnoite\ComposicaoBanco\obj\Debug\net8.0\ComposicaoBanco.genruntimeconfig.cache
+J:\ADS\SEMESTRE 4\Prrogramação Orientada a Objetos\POOnoite\ComposicaoBanco\obj\Debug\net8.0\ref\ComposicaoBanco.dll
