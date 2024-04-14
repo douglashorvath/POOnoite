@@ -24,7 +24,7 @@ p4.MostrarAtributos();
 Produto p5 = new Produto("Meia", 20);
 p5.MostrarAtributos();
 
-System.Console.WriteLine("---- Iniciar Venda ----");
+System.Console.WriteLine("---- Iniciar Primeira Venda ----");
 
 Venda venda = new Venda();
 venda.Comp = comprador;
@@ -37,3 +37,15 @@ venda.VetProd.Add(p5);
 venda.calcularComissao();
 venda.registraCompra(); 
 venda.MostrarAtributos();
+
+
+Venda venda2 = new Venda();
+venda2.Comp = comprador;
+venda2.Vend = vendedor;
+venda2.VetProd.Add(p1);
+venda2.VetProd.Add(p3);
+venda2.VetProd.Add(p5);
+venda2.calcularComissao();
+venda2.registraCompra(); 
+venda2.MostrarAtributos();
+

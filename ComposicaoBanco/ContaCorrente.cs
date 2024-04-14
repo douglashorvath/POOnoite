@@ -8,9 +8,23 @@ namespace ComposicaoBanco
 {
     public class ContaCorrente
     {
-        public double Saldo { get; set; } //Armazena o saldo da conta
-        public double ChequeEspecial { get; set; } //Armazena o limite do cheque especial
+        public double Saldo { get; set; } //Armazena o saldo da conta 
     
+        private double chequeEspecial; //Armazena o limite do cheque especial
+        public double ChequeEspecial
+        {
+            get { return chequeEspecial; }
+            set { 
+                if(value < 0)
+                {
+                    System.Console.WriteLine("Não é permitido limite de cheque especial negativo!");
+                }
+                else{
+                    chequeEspecial = value;
+                }
+            }
+        }
+        
 
         public ContaCorrente(double sal, double ce)
         {

@@ -13,3 +13,18 @@
 /home/DouglasHorvath/Documents/POOnoite-1/AgregacaoVenda/obj/Debug/net8.0/AgregacaoVenda.pdb
 /home/DouglasHorvath/Documents/POOnoite-1/AgregacaoVenda/obj/Debug/net8.0/AgregacaoVenda.genruntimeconfig.cache
 /home/DouglasHorvath/Documents/POOnoite-1/AgregacaoVenda/obj/Debug/net8.0/ref/AgregacaoVenda.dll
+J:\ADS\SEMESTRE 4\Prrogramação Orientada a Objetos\POOnoite\AgregacaoVenda\obj\Debug\net8.0\AgregacaoVenda.GeneratedMSBuildEditorConfig.editorconfig
+J:\ADS\SEMESTRE 4\Prrogramação Orientada a Objetos\POOnoite\AgregacaoVenda\obj\Debug\net8.0\AgregacaoVenda.AssemblyInfoInputs.cache
+J:\ADS\SEMESTRE 4\Prrogramação Orientada a Objetos\POOnoite\AgregacaoVenda\obj\Debug\net8.0\AgregacaoVenda.AssemblyInfo.cs
+J:\ADS\SEMESTRE 4\Prrogramação Orientada a Objetos\POOnoite\AgregacaoVenda\obj\Debug\net8.0\AgregacaoVenda.csproj.CoreCompileInputs.cache
+J:\ADS\SEMESTRE 4\Prrogramação Orientada a Objetos\POOnoite\AgregacaoVenda\obj\Debug\net8.0\AgregacaoVenda.sourcelink.json
+J:\ADS\SEMESTRE 4\Prrogramação Orientada a Objetos\POOnoite\AgregacaoVenda\obj\Debug\net8.0\AgregacaoVenda.dll
+J:\ADS\SEMESTRE 4\Prrogramação Orientada a Objetos\POOnoite\AgregacaoVenda\obj\Debug\net8.0\refint\AgregacaoVenda.dll
+J:\ADS\SEMESTRE 4\Prrogramação Orientada a Objetos\POOnoite\AgregacaoVenda\obj\Debug\net8.0\AgregacaoVenda.pdb
+J:\ADS\SEMESTRE 4\Prrogramação Orientada a Objetos\POOnoite\AgregacaoVenda\bin\Debug\net8.0\AgregacaoVenda.exe
+J:\ADS\SEMESTRE 4\Prrogramação Orientada a Objetos\POOnoite\AgregacaoVenda\bin\Debug\net8.0\AgregacaoVenda.deps.json
+J:\ADS\SEMESTRE 4\Prrogramação Orientada a Objetos\POOnoite\AgregacaoVenda\bin\Debug\net8.0\AgregacaoVenda.runtimeconfig.json
+J:\ADS\SEMESTRE 4\Prrogramação Orientada a Objetos\POOnoite\AgregacaoVenda\bin\Debug\net8.0\AgregacaoVenda.dll
+J:\ADS\SEMESTRE 4\Prrogramação Orientada a Objetos\POOnoite\AgregacaoVenda\bin\Debug\net8.0\AgregacaoVenda.pdb
+J:\ADS\SEMESTRE 4\Prrogramação Orientada a Objetos\POOnoite\AgregacaoVenda\obj\Debug\net8.0\AgregacaoVenda.genruntimeconfig.cache
+J:\ADS\SEMESTRE 4\Prrogramação Orientada a Objetos\POOnoite\AgregacaoVenda\obj\Debug\net8.0\ref\AgregacaoVenda.dll

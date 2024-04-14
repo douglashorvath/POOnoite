@@ -16,8 +16,31 @@ namespace AgregacaoVenda
         }
 
         public int Codigo { get; set; }
-        public string Nome { get; set; }
-        public double Preco { get; set; }  
+        private string nome;
+        public string Nome
+        {
+            get { return nome; }
+            set {
+                if (string.IsNullOrEmpty(value))
+                    System.Console.WriteLine("Nome inválido!");
+                else
+                    nome = value;
+                
+            }
+
+        }
+        private double preco;
+        public double Preco
+        {
+            get { return preco; }
+            set {
+                if(value <= 0)
+                    System.Console.WriteLine("Preço inválido!");
+                else
+                    preco = value;
+                
+            }
+        } 
 
         static Produto()
         {
