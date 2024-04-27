@@ -13,6 +13,21 @@ namespace HerancaCliente
             get { return cnpj; }
             set { cnpj = value; }
         }
+
+        public ClienteJuridico() : base()
+        {
+            
+        }
+
+        public ClienteJuridico(int codigo, string nome, string endereco, string cnpj) : base(codigo, nome, endereco)
+        {
+            this.cnpj = cnpj;
+        }
+
+        public void Mostrar(){
+            base.Mostrar();
+            System.Console.WriteLine("CNPJ: "+this.cnpj);
+        }
         
     }
 }

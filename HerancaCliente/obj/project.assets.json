@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/DouglasHorvath/Documents/FATEC/POOnoite/Heranca01/Heranca01.csproj",
+      "projectUniqueName": "/home/DouglasHorvath/Documents/FATEC/POOnoite/HerancaCliente/Heranca01.csproj",
       "projectName": "Heranca01",
-      "projectPath": "/home/DouglasHorvath/Documents/FATEC/POOnoite/Heranca01/Heranca01.csproj",
+      "projectPath": "/home/DouglasHorvath/Documents/FATEC/POOnoite/HerancaCliente/Heranca01.csproj",
       "packagesPath": "/home/DouglasHorvath/.nuget/packages/",
-      "outputPath": "/home/DouglasHorvath/Documents/FATEC/POOnoite/Heranca01/obj/",
+      "outputPath": "/home/DouglasHorvath/Documents/FATEC/POOnoite/HerancaCliente/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/DouglasHorvath/.nuget/NuGet/NuGet.Config"

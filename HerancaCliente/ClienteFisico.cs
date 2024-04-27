@@ -14,8 +14,19 @@ namespace HerancaCliente
             set { rg = value; }
         }
 
+        public ClienteFisico() : base()
+        {
+            
+        }
+
+        public ClienteFisico(int codigo, string nome, string endereco, string rg) : base(codigo, nome, endereco)
+        {
+            this.rg = rg; 
+        }
+
         public void Mostrar(){
-            System.Console.WriteLine("Nome: "+this.Nome+"\tEndereço: "+this.Endereco+"\tRG: "+this.Rg);
+            base.Mostrar();
+            System.Console.WriteLine("RG: "+this.Rg);
         }
         
     }
