@@ -1,0 +1,15 @@
+F:\TEMP\POOnoite\TrabalhoHeranca\obj\Debug\net8.0\TrabalhoHeranca.GeneratedMSBuildEditorConfig.editorconfig
+F:\TEMP\POOnoite\TrabalhoHeranca\obj\Debug\net8.0\TrabalhoHeranca.AssemblyInfoInputs.cache
+F:\TEMP\POOnoite\TrabalhoHeranca\obj\Debug\net8.0\TrabalhoHeranca.AssemblyInfo.cs
+F:\TEMP\POOnoite\TrabalhoHeranca\obj\Debug\net8.0\TrabalhoHeranca.csproj.CoreCompileInputs.cache
+F:\TEMP\POOnoite\TrabalhoHeranca\obj\Debug\net8.0\TrabalhoHeranca.sourcelink.json
+F:\TEMP\POOnoite\TrabalhoHeranca\bin\Debug\net8.0\TrabalhoHeranca.exe
+F:\TEMP\POOnoite\TrabalhoHeranca\bin\Debug\net8.0\TrabalhoHeranca.deps.json
+F:\TEMP\POOnoite\TrabalhoHeranca\bin\Debug\net8.0\TrabalhoHeranca.runtimeconfig.json
+F:\TEMP\POOnoite\TrabalhoHeranca\bin\Debug\net8.0\TrabalhoHeranca.dll
+F:\TEMP\POOnoite\TrabalhoHeranca\bin\Debug\net8.0\TrabalhoHeranca.pdb
+F:\TEMP\POOnoite\TrabalhoHeranca\obj\Debug\net8.0\TrabalhoHeranca.dll
+F:\TEMP\POOnoite\TrabalhoHeranca\obj\Debug\net8.0\refint\TrabalhoHeranca.dll
+F:\TEMP\POOnoite\TrabalhoHeranca\obj\Debug\net8.0\TrabalhoHeranca.pdb
+F:\TEMP\POOnoite\TrabalhoHeranca\obj\Debug\net8.0\TrabalhoHeranca.genruntimeconfig.cache
+F:\TEMP\POOnoite\TrabalhoHeranca\obj\Debug\net8.0\ref\TrabalhoHeranca.dll
