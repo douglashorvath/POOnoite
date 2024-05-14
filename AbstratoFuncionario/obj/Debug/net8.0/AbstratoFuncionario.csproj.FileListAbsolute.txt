@@ -1,0 +1,15 @@
+/home/DouglasHorvath/Documents/FATEC/POOnoite/AbstratoFuncionario/obj/Debug/net8.0/AbstratoFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+/home/DouglasHorvath/Documents/FATEC/POOnoite/AbstratoFuncionario/obj/Debug/net8.0/AbstratoFuncionario.AssemblyInfoInputs.cache
+/home/DouglasHorvath/Documents/FATEC/POOnoite/AbstratoFuncionario/obj/Debug/net8.0/AbstratoFuncionario.AssemblyInfo.cs
+/home/DouglasHorvath/Documents/FATEC/POOnoite/AbstratoFuncionario/obj/Debug/net8.0/AbstratoFuncionario.csproj.CoreCompileInputs.cache
+/home/DouglasHorvath/Documents/FATEC/POOnoite/AbstratoFuncionario/obj/Debug/net8.0/AbstratoFuncionario.sourcelink.json
+/home/DouglasHorvath/Documents/FATEC/POOnoite/AbstratoFuncionario/bin/Debug/net8.0/AbstratoFuncionario
+/home/DouglasHorvath/Documents/FATEC/POOnoite/AbstratoFuncionario/bin/Debug/net8.0/AbstratoFuncionario.deps.json
+/home/DouglasHorvath/Documents/FATEC/POOnoite/AbstratoFuncionario/bin/Debug/net8.0/AbstratoFuncionario.runtimeconfig.json
+/home/DouglasHorvath/Documents/FATEC/POOnoite/AbstratoFuncionario/bin/Debug/net8.0/AbstratoFuncionario.dll
+/home/DouglasHorvath/Documents/FATEC/POOnoite/AbstratoFuncionario/bin/Debug/net8.0/AbstratoFuncionario.pdb
+/home/DouglasHorvath/Documents/FATEC/POOnoite/AbstratoFuncionario/obj/Debug/net8.0/AbstratoFuncionario.dll
+/home/DouglasHorvath/Documents/FATEC/POOnoite/AbstratoFuncionario/obj/Debug/net8.0/refint/AbstratoFuncionario.dll
+/home/DouglasHorvath/Documents/FATEC/POOnoite/AbstratoFuncionario/obj/Debug/net8.0/AbstratoFuncionario.pdb
+/home/DouglasHorvath/Documents/FATEC/POOnoite/AbstratoFuncionario/obj/Debug/net8.0/AbstratoFuncionario.genruntimeconfig.cache
+/home/DouglasHorvath/Documents/FATEC/POOnoite/AbstratoFuncionario/obj/Debug/net8.0/ref/AbstratoFuncionario.dll

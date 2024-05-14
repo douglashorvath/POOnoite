@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace HerancaCliente
+namespace AbstratoCliente
 {
     public class ClienteFisico : Cliente
     {
@@ -19,14 +19,19 @@ namespace HerancaCliente
             
         }
 
-        public ClienteFisico(int codigo, string nome, string endereco, string rg) : base(codigo, nome, endereco)
+        public ClienteFisico(int codigo, string nome, string endereco, int idade, string rg) : base(codigo, nome, endereco, idade)
         {
             this.rg = rg; 
         }
 
-        public void Mostrar(){
-            base.Mostrar();
-            System.Console.WriteLine("RG: "+this.Rg);
+        public override void Mostrar(){
+            System.Console.WriteLine("Codigo: "+Codigo+"\tNome: "+this.Nome+"\tEndereço: "+this.Endereco+"\tRG: "+this.Rg);
+        }
+
+        public override void AValiarIdade(){
+            if(this.idade >= 18 && this.idade < 40){
+                System.Console.WriteLine("Cliente Fisico");
+            }
         }
         
     }

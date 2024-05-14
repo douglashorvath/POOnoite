@@ -1,0 +1,15 @@
+/home/DouglasHorvath/Documents/FATEC/POOnoite/AbstratoCliente/obj/Debug/net8.0/AbstratoCliente.GeneratedMSBuildEditorConfig.editorconfig
+/home/DouglasHorvath/Documents/FATEC/POOnoite/AbstratoCliente/obj/Debug/net8.0/AbstratoCliente.AssemblyInfoInputs.cache
+/home/DouglasHorvath/Documents/FATEC/POOnoite/AbstratoCliente/obj/Debug/net8.0/AbstratoCliente.AssemblyInfo.cs
+/home/DouglasHorvath/Documents/FATEC/POOnoite/AbstratoCliente/obj/Debug/net8.0/AbstratoCliente.csproj.CoreCompileInputs.cache
+/home/DouglasHorvath/Documents/FATEC/POOnoite/AbstratoCliente/obj/Debug/net8.0/AbstratoCliente.sourcelink.json
+/home/DouglasHorvath/Documents/FATEC/POOnoite/AbstratoCliente/bin/Debug/net8.0/AbstratoCliente
+/home/DouglasHorvath/Documents/FATEC/POOnoite/AbstratoCliente/bin/Debug/net8.0/AbstratoCliente.deps.json
+/home/DouglasHorvath/Documents/FATEC/POOnoite/AbstratoCliente/bin/Debug/net8.0/AbstratoCliente.runtimeconfig.json
+/home/DouglasHorvath/Documents/FATEC/POOnoite/AbstratoCliente/bin/Debug/net8.0/AbstratoCliente.dll
+/home/DouglasHorvath/Documents/FATEC/POOnoite/AbstratoCliente/bin/Debug/net8.0/AbstratoCliente.pdb
+/home/DouglasHorvath/Documents/FATEC/POOnoite/AbstratoCliente/obj/Debug/net8.0/AbstratoCliente.dll
+/home/DouglasHorvath/Documents/FATEC/POOnoite/AbstratoCliente/obj/Debug/net8.0/refint/AbstratoCliente.dll
+/home/DouglasHorvath/Documents/FATEC/POOnoite/AbstratoCliente/obj/Debug/net8.0/AbstratoCliente.pdb
+/home/DouglasHorvath/Documents/FATEC/POOnoite/AbstratoCliente/obj/Debug/net8.0/AbstratoCliente.genruntimeconfig.cache
+/home/DouglasHorvath/Documents/FATEC/POOnoite/AbstratoCliente/obj/Debug/net8.0/ref/AbstratoCliente.dll

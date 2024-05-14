@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace HerancaCliente
+namespace AbstratoCliente
 {
     public class ClienteJuridico: Cliente
     {
@@ -19,14 +19,19 @@ namespace HerancaCliente
             
         }
 
-        public ClienteJuridico(int codigo, string nome, string endereco, string cnpj) : base(codigo, nome, endereco)
+        public ClienteJuridico(int codigo, string nome, string endereco, int idade, string cnpj) : base(codigo, nome, endereco, idade)
         {
             this.cnpj = cnpj;
         }
 
-        public void Mostrar(){
-            base.Mostrar();
-            System.Console.WriteLine("CNPJ: "+this.cnpj);
+        public override void Mostrar(){
+            System.Console.WriteLine("Codigo: "+Codigo+"\tNome: "+this.Nome+"\tEndereço: "+this.Endereco+"\tCNPJ: "+this.Cnpj);
+        }
+
+        public override void AValiarIdade(){
+            if(this.idade >= 40){
+                System.Console.WriteLine("Cliente Jurídico");
+            }
         }
         
     }
