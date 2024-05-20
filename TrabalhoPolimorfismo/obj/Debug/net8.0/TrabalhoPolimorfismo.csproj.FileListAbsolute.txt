@@ -1,0 +1,15 @@
+F:\TEMP\POOnoite\TrabalhoPolimorfismo\obj\Debug\net8.0\TrabalhoPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+F:\TEMP\POOnoite\TrabalhoPolimorfismo\obj\Debug\net8.0\TrabalhoPolimorfismo.AssemblyInfoInputs.cache
+F:\TEMP\POOnoite\TrabalhoPolimorfismo\obj\Debug\net8.0\TrabalhoPolimorfismo.AssemblyInfo.cs
+F:\TEMP\POOnoite\TrabalhoPolimorfismo\obj\Debug\net8.0\TrabalhoPolimorfismo.csproj.CoreCompileInputs.cache
+F:\TEMP\POOnoite\TrabalhoPolimorfismo\obj\Debug\net8.0\TrabalhoPolimorfismo.sourcelink.json
+F:\TEMP\POOnoite\TrabalhoPolimorfismo\bin\Debug\net8.0\TrabalhoPolimorfismo.exe
+F:\TEMP\POOnoite\TrabalhoPolimorfismo\bin\Debug\net8.0\TrabalhoPolimorfismo.deps.json
+F:\TEMP\POOnoite\TrabalhoPolimorfismo\bin\Debug\net8.0\TrabalhoPolimorfismo.runtimeconfig.json
+F:\TEMP\POOnoite\TrabalhoPolimorfismo\bin\Debug\net8.0\TrabalhoPolimorfismo.dll
+F:\TEMP\POOnoite\TrabalhoPolimorfismo\bin\Debug\net8.0\TrabalhoPolimorfismo.pdb
+F:\TEMP\POOnoite\TrabalhoPolimorfismo\obj\Debug\net8.0\TrabalhoPolimorfismo.dll
+F:\TEMP\POOnoite\TrabalhoPolimorfismo\obj\Debug\net8.0\refint\TrabalhoPolimorfismo.dll
+F:\TEMP\POOnoite\TrabalhoPolimorfismo\obj\Debug\net8.0\TrabalhoPolimorfismo.pdb
+F:\TEMP\POOnoite\TrabalhoPolimorfismo\obj\Debug\net8.0\TrabalhoPolimorfismo.genruntimeconfig.cache
+F:\TEMP\POOnoite\TrabalhoPolimorfismo\obj\Debug\net8.0\ref\TrabalhoPolimorfismo.dll
