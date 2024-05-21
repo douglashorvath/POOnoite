@@ -1,0 +1,15 @@
+/home/DouglasHorvath/Documents/FATEC/POOnoite/InterfaceAutenticavel/obj/Debug/net8.0/InterfaceAutenticavel.GeneratedMSBuildEditorConfig.editorconfig
+/home/DouglasHorvath/Documents/FATEC/POOnoite/InterfaceAutenticavel/obj/Debug/net8.0/InterfaceAutenticavel.AssemblyInfoInputs.cache
+/home/DouglasHorvath/Documents/FATEC/POOnoite/InterfaceAutenticavel/obj/Debug/net8.0/InterfaceAutenticavel.AssemblyInfo.cs
+/home/DouglasHorvath/Documents/FATEC/POOnoite/InterfaceAutenticavel/obj/Debug/net8.0/InterfaceAutenticavel.csproj.CoreCompileInputs.cache
+/home/DouglasHorvath/Documents/FATEC/POOnoite/InterfaceAutenticavel/obj/Debug/net8.0/InterfaceAutenticavel.sourcelink.json
+/home/DouglasHorvath/Documents/FATEC/POOnoite/InterfaceAutenticavel/bin/Debug/net8.0/InterfaceAutenticavel
+/home/DouglasHorvath/Documents/FATEC/POOnoite/InterfaceAutenticavel/bin/Debug/net8.0/InterfaceAutenticavel.deps.json
+/home/DouglasHorvath/Documents/FATEC/POOnoite/InterfaceAutenticavel/bin/Debug/net8.0/InterfaceAutenticavel.runtimeconfig.json
+/home/DouglasHorvath/Documents/FATEC/POOnoite/InterfaceAutenticavel/bin/Debug/net8.0/InterfaceAutenticavel.dll
+/home/DouglasHorvath/Documents/FATEC/POOnoite/InterfaceAutenticavel/bin/Debug/net8.0/InterfaceAutenticavel.pdb
+/home/DouglasHorvath/Documents/FATEC/POOnoite/InterfaceAutenticavel/obj/Debug/net8.0/InterfaceAutenticavel.dll
+/home/DouglasHorvath/Documents/FATEC/POOnoite/InterfaceAutenticavel/obj/Debug/net8.0/refint/InterfaceAutenticavel.dll
+/home/DouglasHorvath/Documents/FATEC/POOnoite/InterfaceAutenticavel/obj/Debug/net8.0/InterfaceAutenticavel.pdb
+/home/DouglasHorvath/Documents/FATEC/POOnoite/InterfaceAutenticavel/obj/Debug/net8.0/InterfaceAutenticavel.genruntimeconfig.cache
+/home/DouglasHorvath/Documents/FATEC/POOnoite/InterfaceAutenticavel/obj/Debug/net8.0/ref/InterfaceAutenticavel.dll

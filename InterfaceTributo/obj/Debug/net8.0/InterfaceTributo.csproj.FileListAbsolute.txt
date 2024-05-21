@@ -1,0 +1,15 @@
+/home/DouglasHorvath/Documents/FATEC/POOnoite/InterfaceTributo/bin/Debug/net8.0/InterfaceTributo
+/home/DouglasHorvath/Documents/FATEC/POOnoite/InterfaceTributo/bin/Debug/net8.0/InterfaceTributo.deps.json
+/home/DouglasHorvath/Documents/FATEC/POOnoite/InterfaceTributo/bin/Debug/net8.0/InterfaceTributo.runtimeconfig.json
+/home/DouglasHorvath/Documents/FATEC/POOnoite/InterfaceTributo/bin/Debug/net8.0/InterfaceTributo.dll
+/home/DouglasHorvath/Documents/FATEC/POOnoite/InterfaceTributo/bin/Debug/net8.0/InterfaceTributo.pdb
+/home/DouglasHorvath/Documents/FATEC/POOnoite/InterfaceTributo/obj/Debug/net8.0/InterfaceTributo.GeneratedMSBuildEditorConfig.editorconfig
+/home/DouglasHorvath/Documents/FATEC/POOnoite/InterfaceTributo/obj/Debug/net8.0/InterfaceTributo.AssemblyInfoInputs.cache
+/home/DouglasHorvath/Documents/FATEC/POOnoite/InterfaceTributo/obj/Debug/net8.0/InterfaceTributo.AssemblyInfo.cs
+/home/DouglasHorvath/Documents/FATEC/POOnoite/InterfaceTributo/obj/Debug/net8.0/InterfaceTributo.csproj.CoreCompileInputs.cache
+/home/DouglasHorvath/Documents/FATEC/POOnoite/InterfaceTributo/obj/Debug/net8.0/InterfaceTributo.sourcelink.json
+/home/DouglasHorvath/Documents/FATEC/POOnoite/InterfaceTributo/obj/Debug/net8.0/InterfaceTributo.dll
+/home/DouglasHorvath/Documents/FATEC/POOnoite/InterfaceTributo/obj/Debug/net8.0/refint/InterfaceTributo.dll
+/home/DouglasHorvath/Documents/FATEC/POOnoite/InterfaceTributo/obj/Debug/net8.0/InterfaceTributo.pdb
+/home/DouglasHorvath/Documents/FATEC/POOnoite/InterfaceTributo/obj/Debug/net8.0/InterfaceTributo.genruntimeconfig.cache
+/home/DouglasHorvath/Documents/FATEC/POOnoite/InterfaceTributo/obj/Debug/net8.0/ref/InterfaceTributo.dll
