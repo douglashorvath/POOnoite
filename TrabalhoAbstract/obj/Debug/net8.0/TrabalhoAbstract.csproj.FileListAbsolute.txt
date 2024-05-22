@@ -1,0 +1,15 @@
+F:\TEMP\GitHub\POOnoite\TrabalhoAbstract\obj\Debug\net8.0\TrabalhoAbstract.GeneratedMSBuildEditorConfig.editorconfig
+F:\TEMP\GitHub\POOnoite\TrabalhoAbstract\obj\Debug\net8.0\TrabalhoAbstract.AssemblyInfoInputs.cache
+F:\TEMP\GitHub\POOnoite\TrabalhoAbstract\obj\Debug\net8.0\TrabalhoAbstract.AssemblyInfo.cs
+F:\TEMP\GitHub\POOnoite\TrabalhoAbstract\obj\Debug\net8.0\TrabalhoAbstract.csproj.CoreCompileInputs.cache
+F:\TEMP\GitHub\POOnoite\TrabalhoAbstract\obj\Debug\net8.0\TrabalhoAbstract.sourcelink.json
+F:\TEMP\GitHub\POOnoite\TrabalhoAbstract\bin\Debug\net8.0\TrabalhoAbstract.exe
+F:\TEMP\GitHub\POOnoite\TrabalhoAbstract\bin\Debug\net8.0\TrabalhoAbstract.deps.json
+F:\TEMP\GitHub\POOnoite\TrabalhoAbstract\bin\Debug\net8.0\TrabalhoAbstract.runtimeconfig.json
+F:\TEMP\GitHub\POOnoite\TrabalhoAbstract\bin\Debug\net8.0\TrabalhoAbstract.dll
+F:\TEMP\GitHub\POOnoite\TrabalhoAbstract\bin\Debug\net8.0\TrabalhoAbstract.pdb
+F:\TEMP\GitHub\POOnoite\TrabalhoAbstract\obj\Debug\net8.0\TrabalhoAbstract.dll
+F:\TEMP\GitHub\POOnoite\TrabalhoAbstract\obj\Debug\net8.0\refint\TrabalhoAbstract.dll
+F:\TEMP\GitHub\POOnoite\TrabalhoAbstract\obj\Debug\net8.0\TrabalhoAbstract.pdb
+F:\TEMP\GitHub\POOnoite\TrabalhoAbstract\obj\Debug\net8.0\TrabalhoAbstract.genruntimeconfig.cache
+F:\TEMP\GitHub\POOnoite\TrabalhoAbstract\obj\Debug\net8.0\ref\TrabalhoAbstract.dll
