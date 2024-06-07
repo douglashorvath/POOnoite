@@ -1,0 +1,15 @@
+F:\TEMP\POOnoite\POOnoite\TrabalhoVendaFinal\obj\Debug\net8.0\TrabalhoVendaFinal.GeneratedMSBuildEditorConfig.editorconfig
+F:\TEMP\POOnoite\POOnoite\TrabalhoVendaFinal\obj\Debug\net8.0\TrabalhoVendaFinal.AssemblyInfoInputs.cache
+F:\TEMP\POOnoite\POOnoite\TrabalhoVendaFinal\obj\Debug\net8.0\TrabalhoVendaFinal.AssemblyInfo.cs
+F:\TEMP\POOnoite\POOnoite\TrabalhoVendaFinal\obj\Debug\net8.0\TrabalhoVendaFinal.csproj.CoreCompileInputs.cache
+F:\TEMP\POOnoite\POOnoite\TrabalhoVendaFinal\obj\Debug\net8.0\TrabalhoVendaFinal.sourcelink.json
+F:\TEMP\POOnoite\POOnoite\TrabalhoVendaFinal\bin\Debug\net8.0\TrabalhoVendaFinal.exe
+F:\TEMP\POOnoite\POOnoite\TrabalhoVendaFinal\bin\Debug\net8.0\TrabalhoVendaFinal.deps.json
+F:\TEMP\POOnoite\POOnoite\TrabalhoVendaFinal\bin\Debug\net8.0\TrabalhoVendaFinal.runtimeconfig.json
+F:\TEMP\POOnoite\POOnoite\TrabalhoVendaFinal\bin\Debug\net8.0\TrabalhoVendaFinal.dll
+F:\TEMP\POOnoite\POOnoite\TrabalhoVendaFinal\bin\Debug\net8.0\TrabalhoVendaFinal.pdb
+F:\TEMP\POOnoite\POOnoite\TrabalhoVendaFinal\obj\Debug\net8.0\TrabalhoVendaFinal.dll
+F:\TEMP\POOnoite\POOnoite\TrabalhoVendaFinal\obj\Debug\net8.0\refint\TrabalhoVendaFinal.dll
+F:\TEMP\POOnoite\POOnoite\TrabalhoVendaFinal\obj\Debug\net8.0\TrabalhoVendaFinal.pdb
+F:\TEMP\POOnoite\POOnoite\TrabalhoVendaFinal\obj\Debug\net8.0\TrabalhoVendaFinal.genruntimeconfig.cache
+F:\TEMP\POOnoite\POOnoite\TrabalhoVendaFinal\obj\Debug\net8.0\ref\TrabalhoVendaFinal.dll
